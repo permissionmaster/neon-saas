@@ -1,0 +1,4 @@
+boto3>=1.28
+Flask>=2.3
+stripe>=6
+slack_sdk
